@@ -6,4 +6,4 @@ This is my personal URL shortener.
 
 ## Create your own 🚀
 
-You can create your own by watching this [Youtube]([![YouTube](http://i.ytimg.com/vi/HL6paXyx6hM/hqdefault.jpg)](https://www.youtube.com/watch?v=HL6paXyx6hM)) video.
+You can create your own by watching this [Youtube](https://www.youtube.com/watch?v=HL6paXyx6hM&list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u) video.
