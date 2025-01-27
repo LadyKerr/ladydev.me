@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://ladydev.me",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "ladykerr",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
